@@ -1,0 +1,44 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px;">Frequently Asked Questions in #State</h2>
+                <h4 class="template4 palooma">What size roll off dumpster rental do I actually need?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The best way to know is to call us and describe your project. But as a general rule, a 10 yard dumpster is for small cleanouts and remodels, a 20 yard dumpster is for larger renovations and cleanouts, and a 30 yard dumpster is for major construction or whole-home purges.</p>
+                <h4 class="template4 palooma">How much does a dumpster rental cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our roll off dumpster rental prices in #state vary based on the size of the dumpster and the rental period. We pride ourselves on transparent pricing with no hidden fees. Contact us for a free, no-obligation quote.</p>
+                <h4 class="template4 palooma">What can I put in my roll off rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You can put most common household and construction debris in our dumpsters. This includes furniture, wood, drywall, roofing shingles, yard waste, and appliances.</p>
+                <h4 class="template4 palooma">Is there anything I can't put in the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, hazardous materials are not allowed. This includes paints, chemicals, oils, asbestos, and flammable liquids. We can provide you with a full list of prohibited items</p>
+                <div class="callalooma mx-auto"><a href="tel:820-218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
